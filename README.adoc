@@ -26,6 +26,7 @@ SensorsTutorial +
 │   ├── https://github.com/RoboticsClubUEM/sensorstutorial/tree/master/final/KY-010[KY 010]             => Sensor de bloqueo de luz +
 │   ├── https://github.com/RoboticsClubUEM/sensorstutorial/tree/master/final/KY-012[KY 012]             => Buzzer activo +
 │   ├── https://github.com/RoboticsClubUEM/sensorstutorial/tree/master/final/KY-016[KY 016]             => Módulo RGB +
+│   ├── https://github.com/RoboticsClubUEM/sensorstutorial/tree/master/final/KY-019[KY 019]             => Relay de 5V AC +
 │   ├── https://github.com/RoboticsClubUEM/sensorstutorial/tree/master/final/KY-021[KY 021]             => Mini reed switch +
 │   ├── https://github.com/RoboticsClubUEM/sensorstutorial/tree/master/final/KY-023[KY 023]             => Joystick +
 │   ├── https://github.com/RoboticsClubUEM/sensorstutorial/tree/master/final/KY-031[KY 031]             => Sensor de impacto +
