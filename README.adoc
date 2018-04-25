@@ -27,6 +27,7 @@ SensorsTutorial +
 │   ├── https://github.com/RoboticsClubUEM/sensorstutorial/tree/master/final/KY-012[KY 012]             => Buzzer activo +
 │   ├── https://github.com/RoboticsClubUEM/sensorstutorial/tree/master/final/KY-016[KY 016]             => Módulo RGB +
 │   ├── https://github.com/RoboticsClubUEM/sensorstutorial/tree/master/final/KY-021[KY 021]             => Mini reed switch +
+│   ├── https://github.com/RoboticsClubUEM/sensorstutorial/tree/master/final/KY-023[KY 023]             => Joystick +
 │   ├── https://github.com/RoboticsClubUEM/sensorstutorial/tree/master/final/KY-031[KY 031]             => Sensor de impacto +
 │   └── https://github.com/RoboticsClubUEM/sensorstutorial/tree/master/final/LCD[LCD]                   => LCD 16x2 +
 │ +
